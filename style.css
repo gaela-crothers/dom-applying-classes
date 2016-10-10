@@ -21,6 +21,16 @@ div.blue {
   background-color: blue;
 }
 
+div.green {
+  background-color: green;
+}
+
+div.yellow {
+  background-color: yellow;
+}
+
+
+
 .invisible {
   display: none;
 }
@@ -31,3 +41,4 @@ div.blue {
   border-radius: 0;
   background-color: white;
 }
+// Add green
